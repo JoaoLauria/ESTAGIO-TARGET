@@ -77,6 +77,11 @@ e) 13
 f) 20
 # 4
 
+Primeira ida: ligue um interruptor e deixe outro desligado, veja qual lâmpada está acesa, ela está conectada ao interruptor que você deixou ligado, a lâmpada que ficou apagada pode estar conectada a um dos outros dois interruptores.
+
+Segunda ida: se você deixou uma lâmpada acesa antes, veja se ela ainda está acesa, se estiver, então o interruptor que você deixou ligado controla essa lâmpada, se a lâmpada que estava apagada antes estiver acesa agora, então o interruptor que você temporariamente ligou e depois desligou controla essa lâmpada, a lâmpada que permaneceu apagada está conectada ao interruptor que você nunca ligou, em duas visitas, você descobre qual interruptor controla cada lâmpada.
+
+
 # 5
 
 [RESOLUÇÃO5](https://JoaoLauria.github.io/estagioTarget2/)
