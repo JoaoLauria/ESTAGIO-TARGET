@@ -60,7 +60,7 @@ o valor da variável SOMA será 91
 
 # 2
 
-[exercicio2](JoaoLauria.github.io/estagioTarget/)
+[RESOLUÇÃO2](JoaoLauria.github.io/estagioTarget/)
 
 # 3
 
@@ -79,4 +79,4 @@ f) 20
 
 # 5
 
-[exercicio2](JoaoLauria.github.io/estagioTarget2/)
+[RESOLUÇÃO5](JoaoLauria.github.io/estagioTarget2/)
